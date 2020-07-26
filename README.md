@@ -1,4 +1,4 @@
-![My Post](https://user-images.githubusercontent.com/51125645/88020963-4262a180-cb4a-11ea-8490-faa5b3d811d1.png)
+![Custom Size – 1@2x](https://user-images.githubusercontent.com/51125645/88488228-73f3c680-cfa9-11ea-84f0-9562f6dcd3b0.jpg)
 <hr>
 <h2>Currently Working on the Following </h2>
 <ul>
